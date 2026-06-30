@@ -4,12 +4,12 @@
         <title>Saura</title>
         <item>
             <title>1.7.4</title>
-            <pubDate>Tue, 30 Jun 2026 22:13:12 +0200</pubDate>
+            <pubDate>Tue, 30 Jun 2026 22:17:58 +0200</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/RomualdPouget/saura-releases/releases/download/app/Saura-1.7.4-b12.dmg" length="2876333" type="application/octet-stream" sparkle:edSignature="ODgu/q4pNCDeW/suN9rPlbTYqp2AkSqJnAXrZkU8xC544zQJ972Jc0CLpy4KAjFv5+bZtGxVCNIETwRog6MXAQ=="/>
+            <enclosure url="https://github.com/RomualdPouget/saura-releases/releases/download/app/Saura-1.7.4.dmg" length="2876373" type="application/octet-stream" sparkle:edSignature="xgaD71q1XTtpD+aFGooULoqoQi25NMrmpR6yT6PRrHyvcRs7BYnwg9OvUKt1eNm86qEw4P3WV3+PPatvsxc0AA=="/>
         </item>
     </channel>
 </rss>
