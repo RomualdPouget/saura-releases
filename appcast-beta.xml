@@ -3,13 +3,13 @@
     <channel>
         <title>Saura</title>
         <item>
-            <title>1.7.2</title>
-            <pubDate>Tue, 30 Jun 2026 20:29:37 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <title>1.7.3</title>
+            <pubDate>Tue, 30 Jun 2026 21:52:15 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/RomualdPouget/saura-releases/releases/download/app/Saura-1.7.2.dmg" length="2859422" type="application/octet-stream" sparkle:edSignature="YBQsczJTNcYm7DWLyPq2jnRvOK59mNNmrr6h18X4ttu+DwxdyFzzo5ZZTlZNuYwbBadAxk//jYtVzCNiCi7BAg=="/>
+            <enclosure url="https://github.com/RomualdPouget/saura-releases/releases/download/app/Saura-1.7.3-b11.dmg" length="2874900" type="application/octet-stream" sparkle:edSignature="Kh4OR4JkKlmi23UsEQ8eXfLZG8KhsbEnXdvZ/F15hyHk7gQlcaz4Vx1bw6BaHxe5GLjOq6bCNlAHg0HPpsbrAQ=="/>
         </item>
     </channel>
 </rss>
